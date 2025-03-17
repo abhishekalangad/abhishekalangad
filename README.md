@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**abhishekalangad/abhishekalangad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there, I'm Abhishek! 🚀
 
-Here are some ideas to get you started:
+### 💡 Who Am I?
+I'm an **MCA student** at **LEAD College of Management, Dhoni**, with a passion for coding, problem-solving, and building impactful tech solutions. I love to explore **Web Development**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Skills
+
+```
+💻 Languages: 
+- Python 🐍  
+- JavaScript ⚡  
+- Dart 📱  
+
+🌐 Web Development:
+- HTML & CSS 🎨  
+- Flask 🔥  
+- Django 🏗️  
+
+```
+
+---
+
+## 🏆 Notable Projects
+
+| 🚀 Project | 🔍 Description |
+|------------|---------------|
+| **AcadMate** | A web-based platform for organizing and accessing study materials. |
+| **Car2Go** | An intelligent car rental system with an interactive booking experience. |
+| **Lumos Learning App** | A Flutter-based educational app for interactive learning. |
+---
+
+## 📬 Connect With Me
+💌 **Email:** [Abhishekalangad@example.com](mailto:abhishekalangad@example.com)  
+🔗 **LinkedIn:** [abhishek-kulangara](https://www.linkedin.com/in/abhishek-kulangara)  
+📸 **Instagram:** [___abshk._](https://www.instagram.com/___abshk._)  
+
+---
+
+✨ *"Code. Create. Conquer!"* 🚀
